@@ -1,0 +1,379 @@
+{
+  "10201": {
+      "tmsGuideId": "10201",
+      "tmsProgramId": "MV001382060000",
+      "callSign": "FLIX",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Movies"
+      ],
+      "icons": [
+        "CC",
+        "Stereo"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/House_Of_The_Dead%2C_Thelogo.png/250px-House_Of_The_Dead%2C_Thelogo.png",
+      "title": "House of the Dead",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "R",
+      "ratings": {
+            "percentage":91,
+            "votes":18,
+            "loved":18,
+            "hated":0
+      },
+      "durationMinutes": 90,
+      "startTimeUtcSeconds": 1469680500,
+      "advisories": [
+        "Adult Language",
+        "Adult Situations",
+        "Graphic Violence",
+        "Nudity"
+      ],
+      "vodAssetId": "576243267964",
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": " movie",
+        "year": "2003",
+        "season": 2
+      },
+      "epgCdvrId": "102011469685900"
+    },
+    
+  "10239": {
+      "tmsGuideId": "10239",
+      "tmsProgramId": "SH024556800000",
+      "callSign": "TELE",
+      "genres": [
+        "Drama"
+      ],
+      "icons": [
+        "CC",
+        "Stereo",
+        "Series"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Se%C3%B1ora_Acero,_La_Coyote.jpg",
+      "title": "Se  ora Acero 3: La Coyote",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "durationMinutes": 60,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "epgCdvrId": "102391469685600"
+    },
+    
+  "10270": {
+      "tmsGuideId": "10270",
+      "tmsProgramId": "SH014329070000",
+      "callSign": "HSN2",
+      "genres": [
+        "Reality"
+      ],
+      "icons": [
+        "CC",
+        "Series",
+        "HD"
+      ],
+      "imageUrl": "https://s.graphiq.com/sites/default/files/8464/media/images/t2/Best_of_HSN2_Celebration_9360326.jpg",
+      "title": "Best of HSN2 Celebration",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "TV-G",
+      "ratings":{
+            "percentage":49,
+            "votes":49,
+            "loved":24,
+            "hated":25
+        },
+      "durationMinutes": 60,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "epgCdvrId": "102701469685600"
+    },
+    
+  "10982": {
+      "tmsGuideId": "10982",
+      "tmsProgramId": "SH021760590000",
+      "callSign": "YOUTOAM",
+      "genres": [
+        
+      ],
+      "icons": [
+        "Series"
+      ],
+      "imageUrl": "http://youtooamerica.com/wp-content/uploads/2015/06/AT_Gina.png",
+      "title": "America Trends With Dr. Gina",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "durationMinutes": 60,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "epgCdvrId": "109821469685600"
+    },
+    
+  "11736": {
+      "tmsGuideId": "11736",
+      "tmsProgramId": "EP018401630003",
+      "callSign": "WNSC",
+      "genres": [
+        "Reality",
+        "Documentary",
+        "Reality",
+        "TV Shows"
+      ],
+      "icons": [
+        "CC",
+        "Stereo"
+      ],
+      "imageUrl": "http://qpbs.imageg.net/graphics/product_images/pPBS3-18884772reg.jpg",
+      "title": "My Wild Affair",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "TV-PG",
+      "ratings":{
+            "percentage":80,
+            "votes":15,
+            "loved":12,
+            "hated":3
+        },
+      "durationMinutes": 60,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": "episode",
+        "tmsSeriesId": "10401893",
+        "title": "The Seal Who Came Home",
+        "season": 1,
+        "episode": 3
+      },
+      "epgCdvrId": "117361469685600"
+    },
+  "11943": {
+      "tmsGuideId": "11943",
+      "tmsProgramId": "EP006228693211",
+      "callSign": "WUNG",
+      "genres": [
+        "Reality",
+        "TV Shows"
+      ],
+      "icons": [
+        "New",
+        "CC",
+        "Stereo"
+      ],
+      "imageUrl": "https://pbs.twimg.com/media/CeRPtiQUIAELGCv.jpg",
+      "title": "Tavis Smiley",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "TV-G",
+      "ratings":{
+            "percentage":80,
+            "votes":15,
+            "loved":12,
+            "hated":3
+      },
+      "durationMinutes": 30,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": "episode",
+        "tmsSeriesId": "186096",
+        "season": 13,
+        "episode": 159
+      },
+      "epgCdvrId": "119431469683800"
+    },
+  "12750": {
+      "tmsGuideId": "12750",
+      "tmsProgramId": "SH017380410000",
+      "callSign": "SUR",
+      "genres": [
+        "News & Weather"
+      ],
+      "icons": [
+        "New",
+        "Series"
+      ],
+      "imageUrl": "https://4.bp.blogspot.com/-ftZINxCyquo/VwM7Ui9CLpI/AAAAAAAACtQ/xNZ71d_RS5gloFT3cKTimj3YOC3S9Yrkg/s1600/90-central.jpg",
+      "title": "90 Central",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "durationMinutes": 60,
+      "startTimeUtcSeconds": 1469680200,
+      "ratingsBlocked ": false,
+      "epgCdvrId": "127501469683800"
+    },
+  "14765": {
+      "tmsGuideId": "14765",
+      "tmsProgramId": "MV000030030000",
+      "callSign": "STZENWS",
+      "genres": [
+        "War & Western",
+        "Movies"
+      ],
+      "icons": [
+        "CC"
+      ],
+      "imageUrl": "http://iv1.lisimg.com/image/999447/300full-day-of-the-badman-poster.jpg",
+      "title": "Day of the Bad Man",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "TV-PG",
+      "ratings":{
+            "percentage":85,
+            "votes":25,
+            "loved":18,
+            "hated":7
+        },
+      "durationMinutes": 85,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": "movie",
+        "year": "1958",
+        "season": 24
+      },
+      "epgCdvrId": "147651469684700"
+    },
+  "14767": {
+      "tmsGuideId": "14767",
+      "tmsProgramId": "SH023457570000",
+      "callSign": "TBN",
+      "genres": [
+        
+      ],
+      "icons": [
+        "Series",
+        "HD"
+      ],
+      "imageUrl": "http://www.marshillnetwork.org/wp-content/uploads/2015/04/Laurie_Front.png",
+      "title": "GregLaurie.TV",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "ratings":{
+            "percentage":70,
+            "votes":13,
+            "loved":10,
+            "hated":3
+        },
+      "durationMinutes": 30,
+      "startTimeUtcSeconds": 1469682000,
+      "ratingsBlocked": false,
+      "epgCdvrId": "147671469683800"
+    },
+    
+  "14789": {
+      "tmsGuideId": "14789",
+      "tmsProgramId": "SH001103230000",
+      "callSign": "LEAC",
+      "ge nres": [
+        
+      ],
+      "icons": [
+        "Series"
+      ],
+      "imageUrl": "http://3.bp.blogspot.com/-mA4q17B0_io/VKTtFf1DbSI/AAAAAAAAAhI/rHrEuJIK_iM/s1600/2LAPAlogo.jpg",
+      "title": "Leased Access",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "ratings":{
+            "percentage":90,
+            "votes":19,
+            "loved":16,
+            "hated":3
+       },
+      "durationMinutes": 240,
+      "startTimeUtcSeconds": 1469671200,
+      "ratingsBlocked": false,
+      "epgCdvrId": "147891469685600"
+    },
+    
+  "14886": {
+      "tmsGuideId": "14886",
+      "tmsProgramId": "EP002982520029",
+      "callSign": "STZENFAM",
+      "genres": [
+        "Drama",
+        "TV Shows"
+      ],
+      "icons": [
+        "CC",
+        "Stereo"
+      ],
+      "imageUrl": "http://i.telegraph.co.uk/multimedia/archive/01298/pony_1298564c.jpg",
+      "title": "Pit Pony",
+	  "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "TV-G",
+      "ratings":{
+            "percentage":35,
+            "votes":11,
+            "loved":3,
+            "hated":8
+      },
+      "durationMinutes": 25,
+      "startTimeUtcSeconds": 1469682000,
+      "vodAssetId": "701622851669",
+      "vodTmsSeriesId": "275717",
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": "episode",
+        "tmsSeriesId": "275717",
+        "title": "Coal Dust",
+        "season": 2,
+        "episode": 3
+      },
+      "epgCdvrId": "148861469683500"
+    },
+    
+  "14897": {
+      "tmsGuideId": "14897",
+      "tmsProgramId": "MV001727140000",
+      "callSign": "CTRC",
+      "genres": [
+        "Reality",
+        "Movies"
+      ],
+      "icons": [
+        "CC"
+      ],
+      "imageUrl": "https://s-media-cache-ak0.pinimg.com/236x/dd/43/60/dd4360073c3be9341bcce4cfe81d6e49.jpg",
+      "title": "The flamboyant musician (Leon) experiences highs and lows.",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "rating": "TV-14",
+      "ratings":{
+            "percentage":80,
+            "votes":15,
+            "loved":12,
+            "hated":3
+        },
+      "durationMinutes": 147,
+      "startTimeUtcSeconds": 1469674800,
+      "advisories": [
+        "Dialog"
+      ],
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": "movie",
+        "year": "2000",
+        "season": 20
+      },
+      "epgCdv rId": "148971469683620"
+    },
+    
+  "15451": {
+      "tmsGuideId": "15451",
+      "tmsProgramId": "EP002712873601",
+      "callSign": "ESPNCL",
+      "genres": [
+        "Sports"
+      ],
+      "icons": [
+        "CC"
+      ],
+      "imageUrl": "http://binaryapi.ap.org/3d6a66dde9fc453ba7c59b9622040ec5/940x.jpg",
+      "title": "2012: Kansas at Iowa State",
+      "shortDesc": "Miss Marple is an elderly spinster who lives in the village of St. Mary Mead and acts as an amateur detective. Due to her long and eventful life crimes often remind her of other incidents. Although Miss Marple looks sweet, frail, and old, she fears nothing; either dead or living.",
+      "durationMinutes": 120,
+      "startTimeUtcSeconds": 1469678400,
+      "ratingsBlocked": false,
+      "metadata": {
+        "type": "episode",
+        "tmsSeriesId": "356298",
+        "title": "2012: Kansas at Iowa State",
+        "season": 7
+      },
+      "epgCdvrId": "154511469685600"
+    }
+    
+}

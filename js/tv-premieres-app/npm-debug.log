@@ -1,0 +1,23 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@1.3.2
+3 info using node@v4.4.7
+4 error install Couldn't read dependencies
+5 error Error: ENOENT: no such file or directory, open 'C:\Users\sysadmin\Desktop\myAngProj\js\tv-premieres-app\package.json'
+5 error     at Error (native)
+6 error If you need help, you may report this log at:
+6 error     <http://github.com/isaacs/npm/issues>
+6 error or email it to:
+6 error     <npm-@googlegroups.com>
+7 error System Windows_NT 6.1.7601
+8 error command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+9 error cwd C:\Users\sysadmin\Desktop\myAngProj\js\tv-premieres-app
+10 error node -v v4.4.7
+11 error npm -v 1.3.2
+12 error path C:\Users\sysadmin\Desktop\myAngProj\js\tv-premieres-app\package.json
+13 error syscall open
+14 error code ENOENT
+15 error errno -4058
+16 verbose exit [ -4058, true ]
